@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "OptimizedPrime",
+      "request": "launch",
+      "mainClass": "OptimizedPrime",
+      "projectName": "java-Function_ccd3b38"
+    },
+    {
+      "type": "java",
       "name": "isPrime",
       "request": "launch",
       "mainClass": "isPrime",
