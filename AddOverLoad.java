@@ -37,3 +37,19 @@ public class AddOverLoad {
     }
     
 }
+
+/* 
+ Enter int value of a: 
+2
+Enter second value b: 
+3
+Sum of integers of a and b is : 5
+
+Enter float value of a: 
+3.14
+Enter float value of b: 
+3.14
+sum of float of a and b: 6.28
+
+=== Code Execution Successful ===
+ */
