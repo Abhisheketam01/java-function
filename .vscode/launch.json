@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "SumOverLoading",
+      "request": "launch",
+      "mainClass": "SumOverLoading",
+      "projectName": "java-Function_ccd3b38"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
