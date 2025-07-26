@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DecimalToBinary",
+      "request": "launch",
+      "mainClass": "DecimalToBinary",
+      "projectName": "java-Function_ccd3b38"
+    },
+    {
+      "type": "java",
       "name": "BinaryToDecimal",
       "request": "launch",
       "mainClass": "BinaryToDecimal",
