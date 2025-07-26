@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AddOverLoad",
+      "request": "launch",
+      "mainClass": "AddOverLoad",
+      "projectName": "java-Function_ccd3b38"
+    },
+    {
+      "type": "java",
       "name": "SumOverLoading",
       "request": "launch",
       "mainClass": "SumOverLoading",
